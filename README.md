@@ -30,4 +30,4 @@ Introduction to Java 8 Lambdas and Streams API: filtering, transforming and sort
 - Maven 3.9.11
 
 ## 🚀 Installation
-`git clone `
+`git clone https://github.com/Borgesjesk/S1.08-LambdasStreams.git`
